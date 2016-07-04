@@ -10,3 +10,6 @@ Python utility for visualizing data points. Data points are mapped to 3D locatio
 user@local:$ python data_vis.py
 
 This will generate a test data set and visualize it in 3D.
+
+# Example
+![Example](data_vis_sample.gif)
